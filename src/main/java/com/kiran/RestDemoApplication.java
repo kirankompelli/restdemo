@@ -8,6 +8,8 @@ public class RestDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RestDemoApplication.class, args);
-		System.out.println("demo");	}
+		System.out.println("demo");	
+		System.out.println("demo-feature-login");	
+		}
 
 }
